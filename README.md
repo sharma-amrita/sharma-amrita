@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **meaningful impact, especially in the domains of web development and open-source technologies. Whether it’s brainstorming ideas or solving complex challenges, 
                                                                                      I’m ready to contribute and learn.**
 
-   💬 Ask me about **JAVA, C-PROGRAMMING, HTML, CSS, JAVASCRIPT, REACT.js, SQL**
+-  💬 Ask me about **JAVA, C-PROGRAMMING, HTML, CSS, JAVASCRIPT, REACT.js, SQL**
 
 -   📫  Reach me **amrita74sharma@gmail.com**
 
