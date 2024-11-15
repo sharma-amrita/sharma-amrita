@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharma-amrita&label=Profile%20views&color=0e75b6&style=flat" alt="sharma-amrita" /> </p>
 
--                                                     🔭 I’m currently working on **Sharpening my skills in modern development frameworks and emerging technologies**
+-  🔭 I’m currently working on **Sharpening my skills in modern development frameworks and emerging technologies**
 
--                  👯 I’m looking to collaborate on **meaningful impact, especially in the domains of web development and open-source technologies. Whether it’s brainstorming ideas or solving complex challenges, 
+- 👯 I’m looking to collaborate on **meaningful impact, especially in the domains of web development and open-source technologies. Whether it’s brainstorming ideas or solving complex challenges, 
                                                                                      I’m ready to contribute and learn.**
 
-                                                      💬 Ask me about **JAVA, C-PROGRAMMING, HTML, CSS, JAVASCRIPT, REACT.js, SQL**
+   💬 Ask me about **JAVA, C-PROGRAMMING, HTML, CSS, JAVASCRIPT, REACT.js, SQL**
 
--                                                                                 📫  Reach me **amrita74sharma@gmail.com**
+-   📫  Reach me **amrita74sharma@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17_yrjP1ynRyHQVlZ_lrMQvtaNZKgzICG/view?usp=sharing](https://drive.google.com/file/d/17_yrjP1ynRyHQVlZ_lrMQvtaNZKgzICG/view?usp=sharing)
 
