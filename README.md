@@ -15,7 +15,7 @@
 
 -  💬 Ask me about **Java and Front End(React.js)**
 
-- 📄 RESUME https://t.ly/jqnwB
+- 📄 RESUME https:https://shorturl.at/zWOnj
 
 <div align="center"> 
   <a href="mailto:amrita74sharma@gmail.com">
