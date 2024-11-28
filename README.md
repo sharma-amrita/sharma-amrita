@@ -9,10 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharma-amrita&label=Profile%20views&color=0e75b6&style=flat" alt="sharma-amrita" /> </p>
 
--  🔭 I’m currently working on **Sharpening my skills in modern development frameworks and emerging technologies**
-
--  💬 Ask me about **Java and Front End(React.js)**
-
+- 👩🏼‍💻 I’m currently working on **Sharpening my skills in modern development frameworks and emerging technologies**
+- 🤝 I'm looking to collerabrate **Impactful projects in open-source innovation—ready to brainstorm, solve challenges, and grow.**
+- 💬 Ask me about **Java and Front End(React.js)**
 - 📄 RESUME https:https://shorturl.at/zWOnj
 
 <div align="center"> 
