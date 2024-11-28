@@ -11,8 +11,6 @@
 
 -  🔭 I’m currently working on **Sharpening my skills in modern development frameworks and emerging technologies**
 
-- 👯 I’m looking to collaborate on **Impactful projects in web development and open-source, ready to brainstorm, solve challenges, and grow.**
-
 -  💬 Ask me about **Java and Front End(React.js)**
 
 - 📄 RESUME https:https://shorturl.at/zWOnj
