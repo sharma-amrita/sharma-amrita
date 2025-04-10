@@ -27,7 +27,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,c"/><br>
-    <img src="https://skillicons.dev/icons?i=mysql,bootstrap,wordpress,github,git,vscode"/><br>
+    <img src="https://skillicons.dev/icons?i=mysql,php,bootstrap,wordpress,github,git,vscode"/><br>
 </div>
 <hr>
 <h2 align="left">⚡ Used Language ⚡</h2>
